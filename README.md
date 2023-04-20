@@ -1,4 +1,27 @@
 # Deskripsi Proyek
 
-Setiap kali kita melakukan analisis, kita perlu merumuskan beberapa hipotesis yang perlu kita uji lebih lanjut. Terkadang, pengujian yang kita lakukan membawa kita untuk menerima hipotesis tersebut, adakalanya kita juga perlu menolaknya. Untuk membuat keputusan yang tepat dalam bisnis, kita harus memahami apakah asumsi yang kita buat sudah tepat atau belum.
-Dalam proyek kali ini, Anda akan membandingkan preferensi musik pengguna di kota Springfield dan Shelbyville. Anda akan melihat data Y.Music yang sebenarnya untuk menguji beberapa hipotesis di bawah ini dan membandingkan perilaku pengguna pada kedua kota tersebut. sdsds
+Membandingkan preferensi musik pengguna di kota Springfield dan Shelbyvill. 
+
+# Tujuan
+
+Menguji beberapa hipotesis di bawah ini dan membandingkan perilaku pengguna pada kedua kota tersebut.
+
+# Hipotesis
+
+- Aktivitas pengguna berbeda-beda tergantung pada hari dan kotanya.
+- Pada Senin pagi, penduduk Springfield dan Shelbyville mendengarkan genre yang berbeda. Hal ini juga berlaku pada hari Jumat malam.
+- Pendengar di Springfield dan Shelbyville memiliki preferensi yang berbeda. Di Springfield, para pengguna lebih suka musik pop, sementara di Shelbyville musik rap memiliki lebih banyak penggemar.
+
+# Deskripsi Data
+
+- *'userID'* — ID pengguna
+- *'Track'* — Judul trek lagu
+- *'artist'* — Nama artis
+- *'genre'* —
+- *'City'* — Kota tempat pengguna berada
+- *'time'* — Lama waktu lagu tersebut diputar
+- *'Day'* — Hari dalam seminggu
+
+# Libraries
+
+- Pandas
