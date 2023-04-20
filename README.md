@@ -14,6 +14,8 @@ Menguji beberapa hipotesis di bawah ini dan membandingkan perilaku pengguna pada
 
 # Deskripsi Data
 
+Adapun file yang digunakan yaitu *music_project_en.csv* yang memuat kolom:
+
 - *'userID'* — ID pengguna
 - *'Track'* — Judul trek lagu
 - *'artist'* — Nama artis
