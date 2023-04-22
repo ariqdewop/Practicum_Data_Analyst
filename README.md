@@ -1,6 +1,6 @@
 # Deskripsi Proyek
 
-Mempelajari dan menganalisis kumpulan data iklan kendaraan di situs web Crankshaft List selama beberapa tahun terakhir dan menentukan faktor-faktor yang mempengaruhi harga sebuah kendaraan yang diiklan.
+Mempelajari dan menganalisis kumpulan data iklan kendaraan di situs web Crankshaft List selama beberapa tahun terakhir dan menentukan faktor-faktor yang mempengaruhi harga sebuah kendaraan yang diiklankan.
 
 # Tujuan
 
