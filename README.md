@@ -1,7 +1,36 @@
-# Data Analyst Pilot Projects
-These are Data Analyst projects I completed when going through the Data Analyst training course in Practicum by Yandex. They involve Data Preprocessing, Analysis and Visualization, Statistical Analysis, Python (progamming languange), SQL, BI Tools: Tableau, Machine Learning and etc.
+# Deskripsi Proyek
 
-Projects | Descriptions | Libraries
-:-------- | :------------ | :-------- |
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-01" title="Analisis Preferensi Musik User di Kota Besar"> Analisis Preferensi Musik User di Kota Besar</a></p> | Membandingkan preferensi musik pengguna di kota Springfield dan Shelbyville. | *pandas*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-02" title="Analisis Resiko Peminjam Gagal Membayar"> Analisis Resiko Peminjam Gagal Membayar</a></p> | Menganalisis pengaruh status perkawinan seorang peminjam dan jumlah anak yang dimilikinya terhadap probabilitas gagal bayar dalam melunasi pinjaman. | *pandas*, *numpy*
+Mempelajari dan menganalisis kumpulan data iklan kendaraan di situs web Crankshaft List selama beberapa tahun terakhir dan menentukan faktor-faktor yang mempengaruhi harga sebuah kendaraan yang diiklan.
+
+# Tujuan
+
+Mengetahui faktor yang mempengaruhi sebuah harga kendaraan yang diiklankan.
+
+# Hipotesis
+
+- Faktor apa saja yang mempengaruhi harga sebuah kendaraan
+
+# Deskripsi Data
+
+Adapun file yang digunakan yaitu `vehicles_us.csv` yang memuat kolom:
+
+- *`price`* — Harga kendaraan yang diiklankan
+- *`model_year`* — tahun untuk model kendaraan 
+- *`model`* — jenis model kendaraan
+- *`condition`* — kondisi kendaraan
+- *`cylinders`* — jenis silinder kendaraan
+- *`fuel`* — jenis bahan bakar kendaraan
+- *`odometer`* — jarak tempuh kendaraan saat iklan ditayangkan
+- *`transmission`* — jenis transmisi
+- *`paint_color`* — warna kendaraan
+- *`is_4wd`* — apakah kendaraan memiliki penggerak 4 roda
+- *`date_posted`* — tanggal iklan ditayangkan
+- *`days_listed`* — jumlah hari iklan ditayangkan hingga dihapus
+
+
+# Libraries
+
+- Pandas
+- Numpy
+- Matplotlib Plot
+- Seaborn
