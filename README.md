@@ -1,10 +1,39 @@
-# Data Analyst Pilot Projects
-These are Data Analyst projects I completed when going through the Data Analyst training course in Practicum by Yandex. They involve Data Preprocessing, Analysis and Visualization, Statistical Analysis, Python (progamming languange), SQL, BI Tools: Tableau, Machine Learning and etc.
+# Deskripsi Proyek
 
-Project | Deskripsi | Libraries
-:-------- | :------------ | :-------- |
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-01" title="Analisis Preferensi Musik User di Kota Besar"> Analisis Preferensi Musik User di Kota Besar</a></p> | Membandingkan preferensi musik pengguna di kota Springfield dan Shelbyville. | *pandas*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-02" title="Analisis Resiko Peminjam Gagal Membayar"> Analisis Resiko Peminjam Gagal Membayar</a></p> | Menganalisis pengaruh status perkawinan seorang peminjam dan jumlah anak yang dimilikinya terhadap probabilitas gagal bayar dalam melunasi pinjaman. | *pandas*, *numpy*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-03" title="Analisis Faktor yang Mempengaruhi Harga Sebuah Kendaraan di Website Iklan Penjualan Kendaraan"> Analisis Faktor yang Mempengaruhi Harga Sebuah Kendaraan di Website Iklan Penjualan Kendaraan</a></p> | Mempelajari Mempelajari dan menganalisis kumpulan data iklan kendaraan di situs web Crankshaft List selama beberapa tahun terakhir dan menentukan faktor-faktor yang mempengaruhi harga sebuah kendaraan yang diiklankan. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-04" title="Analisis Perilaku Klien dan Pendapatan Untuk Paket Pra-bayar dari Operator Telekomunikasi"> Analisis Perilaku Klien dan Pendapatan Untuk Paket Pra-bayar dari Operator Telekomunikasi</a></p> | Menganalisis perilaku klien dan mencari pendapatan terbesar untuk jenis paket pra-bayar disediakan oleh operator telekomunikasi Megaline. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-05" title="Analisis Pola yang Menentukan Suatu Game Dapat Dikatakan Berhasil atau Tidak Berhasil pada Toko Daring Video Game"> Analisis Pola yang Menentukan Suatu Game Dapat Dikatakan Berhasil atau Tidak Berhasil pada Toko Daring Video Game</a></p> | Menganalisis pola suatu game yang paling berpotensial dan merencanakan kampanye game tersebut. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*. *warnings*
+Memahami preferensi penumpang dan dampak faktor eksternal terhadap perjalanan dari perusahaan berbagi tumpangan (Ride-Sharing) yaitu Zuber.
+
+# Tujuan
+
+ Menguji hipotesis terkait pengaruh cuaca terhadap frekuensi perjalanan.
+
+# Hipotesis
+
+- Bagaimana dampak dari faktor eksternal suatu perjalanan dapat mempengaruhi prefrensi penumpang
+- Apakah cuaca mempengaruhi frekuensi perjalanan
+
+# Deskripsi Data
+
+Adapun file yang digunakan yaitu `project_sql_result_01.csv` yang memuat kolom:
+
+- *`company_name`* — Nama perusahaan taksi
+- *`trips_amount`* — Jumlah perjalanan untuk setiap perusahaan taksi pada tanggal 15-16 November 2017
+
+file `project_sql_result_04.csv` yang memuat kolom:
+
+- *`dropoff_location_name`* — nama wilayah di Chicago tempat perjalanan berakhir
+- *`average_trips`* — jumlah rata-rata perjalanan yang berakhir di setiap wilayah pada bulan November 2017
+
+file `project_sql_result_07.csv` yang memuat kolom:
+
+- *`start_ts`* — Tanggal dan waktu penjemputan
+- *`weather_conditions`* — kondisi cuaca saat perjalanan dimulai
+- *`duration_seconds`* — durasi perjalanan dalam satuan detik
+
+# Libraries
+
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Scipy
+- Warnings
