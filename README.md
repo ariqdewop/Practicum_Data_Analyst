@@ -1,13 +1,36 @@
-# Data Analyst Pilot Projects
-These are Data Analyst projects I completed when going through the Data Analyst training course in Practicum by Yandex. They involve Data Preprocessing, Analysis and Visualization, Statistical Analysis, Python (progamming languange), SQL, BI Tools: Tableau, Machine Learning and etc.
+# Deskripsi Proyek
 
-Project | Deskripsi | Libraries
-:-------- | :------------ | :-------- |
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-01" title="Analisis Preferensi Musik User di Kota Besar"> Analisis Preferensi Musik User di Kota Besar</a></p> | Membandingkan preferensi musik pengguna di kota Springfield dan Shelbyville. | *pandas*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-02" title="Analisis Resiko Peminjam Gagal Membayar"> Analisis Resiko Peminjam Gagal Membayar</a></p> | Menganalisis pengaruh status perkawinan seorang peminjam dan jumlah anak yang dimilikinya terhadap probabilitas gagal bayar dalam melunasi pinjaman. | *pandas*, *numpy*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-03" title="Analisis Faktor yang Mempengaruhi Harga Sebuah Kendaraan di Website Iklan Penjualan Kendaraan"> Analisis Faktor yang Mempengaruhi Harga Sebuah Kendaraan di Website Iklan Penjualan Kendaraan</a></p> | Mempelajari Mempelajari dan menganalisis kumpulan data iklan kendaraan di situs web Crankshaft List selama beberapa tahun terakhir dan menentukan faktor-faktor yang mempengaruhi harga sebuah kendaraan yang diiklankan. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-04" title="Analisis Perilaku Klien dan Pendapatan Untuk Paket Pra-bayar dari Operator Telekomunikasi"> Analisis Perilaku Klien dan Pendapatan Untuk Paket Pra-bayar dari Operator Telekomunikasi</a></p> | Menganalisis perilaku klien dan mencari pendapatan terbesar untuk jenis paket pra-bayar disediakan oleh operator telekomunikasi Megaline. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-05" title="Analisis Pola yang Menentukan Suatu Game Dapat Dikatakan Berhasil atau Tidak Berhasil pada Toko Daring Video Game"> Analisis Pola yang Menentukan Suatu Game Dapat Dikatakan Berhasil atau Tidak Berhasil pada Toko Daring Video Game</a></p> | Menganalisis pola suatu game yang paling berpotensial dan merencanakan kampanye game tersebut. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*. *warnings*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-06" title="Analisis Pengaruh Dampak Eksternal Terhadap Perjalanan dan Prefrensi penumpang Pada Perusahaan Taksi *Ride-Sharing*"> Analisis Pengaruh Dampak Eksternal Terhadap Perjalanan dan Prefrensi penumpang Pada Perusahaan Taksi *Ride-Sharing*</a></p> | Memahami preferensi penumpang dan dampak faktor eksternal terhadap perjalanan dari perusahaan berbagi tumpangan (Ride-Sharing) yaitu Zuber. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*. *warnings*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-07" title="Analisis Kunjungan Pengguna dan Pembelian Produk di situs Website Belanja Online"> Analisis Kunjungan Pengguna dan Pembelian Produk di situs Website Belanja Online</a></p> | Menganalisis data kunjungan pengguna dan pembelian produk di situs website Y.Afisha. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*. *warnings*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-08" title="Analisis Hipotesis dan A/B Testing di Sebuah Toko Daring"> Analisis Hipotesis dan A/B Testing di Sebuah Toko Daring</a></p> | Melakukan penyusunan dan memprioritaskan hipotesis, A/B Testing dan menganalisis hasilnya di sebuah toko daring besar. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*. *warnings*
+Menganalisis jenis usaha tempat makanan di Los Angeles, Amerika Serikat untuk membuat keputusan membuka usaha kafe dengan sistem pelayan robot yang menjadi proyek menjanjikan. 
+
+# Tujuan
+
+Untuk membuka usaha kafe dengan sistem pelayan atau pramusaji robot dengan menarik minat investor.
+
+# Hipotesis
+
+- Apa saja jenis usaha tempat makan yang berada di Los Angeles, Amerika Serikat
+- Apakah jenis usaha berbasis waralaba atau non-waralaba?
+- Bagaimana ciri-ciri untuk usaha yang berbasis waralaba atau non-waralaba
+- Apakah ada suatu tempat atau titik dimana berkumpulknya berbagai jenis usaha makanan sekaligus
+
+# Deskripsi Data
+
+Adapun file yang digunakan yaitu `rest_data_us.csv` yang memuat kolom:
+
+- *`object_name`* — nama usaha
+- *`chain`* — usaha berbasis waralaba (TRUE/FALSE)
+- *`object_type`* — jenis usaha
+- *`address`* — alamat
+- *`number`* — jumlah kursi
+
+# Libraries
+
+- Pandas
+- Matplotlib
+- Seaborn
+- Warnings
+
+# Link Presentasi
+
+- Link PDF : <a href="https://drive.google.com/file/d/14GVG6ARuwHE4TYZgcUPjO2c9HVMWqnJi/view?usp=share_link" title="PDF"> PDF</a></p>
+- Link PPT : <a href="https://drive.google.com/file/d/14GVG6ARuwHE4TYZgcUPjO2c9HVMWqnJi/view?usp=share_link" title="PPT"> PPT</a></p>
