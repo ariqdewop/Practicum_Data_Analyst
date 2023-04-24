@@ -30,7 +30,6 @@ Adapun file yang digunakan yaitu `rest_data_us.csv` yang memuat kolom:
 - Seaborn
 - Warnings
 
-# Link Presentasi
+# Presentasi
 
-- Link PDF : <a href="https://drive.google.com/file/d/14GVG6ARuwHE4TYZgcUPjO2c9HVMWqnJi/view?usp=share_link" title="PDF"> PDF</a></p>
-- Link PPT : <a href="https://docs.google.com/presentation/d/1l8eCkt0tQpODE2nsr4fL5eCHctcVcN7NobRqm-hvrzg/edit?usp=sharing" title="PPT"> PPT</a></p>
+- Link Presentasi : <a href="https://drive.google.com/file/d/14GVG6ARuwHE4TYZgcUPjO2c9HVMWqnJi/view?usp=share_link" title="Click Here"> Click Here</a></p>
