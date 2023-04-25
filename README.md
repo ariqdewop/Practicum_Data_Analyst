@@ -1,16 +1,46 @@
-# Data Analyst Pilot Projects
-These are Data Analyst projects I completed when going through the Data Analyst training course in Practicum by Yandex. They involve Data Preprocessing, Analysis and Visualization, Statistical Analysis, Python (progamming languange), SQL, BI Tools: Tableau, Machine Learning and etc.
+# Deskripsi Proyek
 
-Project | Deskripsi | Libraries
-:-------- | :------------ | :-------- |
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-01" title="Analisis Preferensi Musik User di Kota Besar"> Analisis Preferensi Musik User di Kota Besar</a></p> | Membandingkan preferensi musik pengguna di kota Springfield dan Shelbyville. | *pandas*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-02" title="Analisis Resiko Peminjam Gagal Membayar"> Analisis Resiko Peminjam Gagal Membayar</a></p> | Menganalisis pengaruh status perkawinan seorang peminjam dan jumlah anak yang dimilikinya terhadap probabilitas gagal bayar dalam melunasi pinjaman. | *pandas*, *numpy*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-03" title="Analisis Faktor yang Mempengaruhi Harga Sebuah Kendaraan di Website Iklan Penjualan Kendaraan"> Analisis Faktor yang Mempengaruhi Harga Sebuah Kendaraan di Website Iklan Penjualan Kendaraan</a></p> | Mempelajari Mempelajari dan menganalisis kumpulan data iklan kendaraan di situs web Crankshaft List selama beberapa tahun terakhir dan menentukan faktor-faktor yang mempengaruhi harga sebuah kendaraan yang diiklankan. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-04" title="Analisis Perilaku Klien dan Pendapatan Untuk Paket Pra-bayar dari Operator Telekomunikasi"> Analisis Perilaku Klien dan Pendapatan Untuk Paket Pra-bayar dari Operator Telekomunikasi</a></p> | Menganalisis perilaku klien dan mencari pendapatan terbesar untuk jenis paket pra-bayar disediakan oleh operator telekomunikasi Megaline. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-05" title="Analisis Pola yang Menentukan Suatu Game Dapat Dikatakan Berhasil atau Tidak Berhasil pada Toko Daring Video Game"> Analisis Pola yang Menentukan Suatu Game Dapat Dikatakan Berhasil atau Tidak Berhasil pada Toko Daring Video Game</a></p> | Menganalisis pola suatu game yang paling berpotensial dan merencanakan kampanye game tersebut. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*, *warnings*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-06" title="Analisis Pengaruh Dampak Eksternal Terhadap Perjalanan dan Prefrensi penumpang Pada Perusahaan Taksi *Ride-Sharing*"> Analisis Pengaruh Dampak Eksternal Terhadap Perjalanan dan Prefrensi penumpang Pada Perusahaan Taksi *Ride-Sharing*</a></p> | Memahami preferensi penumpang dan dampak faktor eksternal terhadap perjalanan dari perusahaan berbagi tumpangan (Ride-Sharing) yaitu Zuber. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*, *warnings*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-07" title="Analisis Kunjungan Pengguna dan Pembelian Produk di situs Website Belanja Online"> Analisis Kunjungan Pengguna dan Pembelian Produk di situs Website Belanja Online</a></p> | Menganalisis data kunjungan pengguna dan pembelian produk di situs website Y.Afisha. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*, *warnings*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-08" title="Analisis Hipotesis dan A/B Testing di Sebuah Toko Daring"> Analisis Hipotesis dan A/B Testing di Sebuah Toko Daring</a></p> | Melakukan penyusunan dan memprioritaskan hipotesis, A/B Testing dan menganalisis hasilnya di sebuah toko daring besar. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*, *warnings*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-09" title="Analisis Pasar Jenis Usaha Tempat Makan"> Analisis Pasar Jenis Usaha Tempat Makan</a></p> | Menganalisis pasar jenis usaha tempat makan di Los Angeles, Amerika Serikat. | *pandas*, *matplotlib plot*, *seaborn*, *warnings*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-10" title="Analisis Perilaku Pengguna Terhadap Perubahan Font Baru di Aplikasi atau Website Perusahaan Startup"> Analisis Perilaku Pengguna Terhadap Perubahan Font Baru di Aplikasi atau Website Perusahaan Startup</a></p> | Menganalisis perilaku pengguna aplikasi/website terhadap font baru di sebuah startup yang menjual produk makanan. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*, *warnings*, *math*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-11" title="Analisis Video Trending Youtube"> Analisis Video Trending Youtube</a></p> | Membuat otomatisasi dashboard untuk menganalisis video yang sedang trending di YouTube untuk kategori, wilayah, dan tanggal trending tertentu di agensi periklanan Sterling & Draper. | -
+Menganalisis profil para pelanggan tersebut dan mengembangkan strategi retensi pelanggan (customer retention) di warabala pusat kebugaran Model Fitness.
+
+# Tujuan
+
+Mengurangin tingkat *churn* (keluar) untuk pelanggan di warabala pusat kebugaran Model Fitness.
+
+# Hipotesis
+
+- apakah ada fitur yang hilang? analisis nilai rata-rata dan standar deviasinya
+- bagaimana nilai fitur rata-ratanya untuk kelompok di kategorikan *churn* dan tidak
+- Buat histogram dan distribusi fitur untuk mereka yang keluar (churn) dan mereka yang tinggal
+- Bagaimana untuk korelas antar fiturnya
+- Bagaimana untuk memprediksi *churn* pengguna gym tersebut pada bulan depan dan buatlah model untuk memprediksinya
+- Bagaimana menentukan kluster objectnya (pengguna)
+- Bagaimana kesimpulan dan rekomendasi untuk analisis yang sudah dilakukan pada tahap-tahap sebelumnya
+
+# Deskripsi Data
+
+Adapun file yang digunakan yaitu `gym_churn_us.csv` yang memuat kolom:
+
+- *`gender`* — jenis kelamin
+- *`Near_Location`* — apakah pengguna tinggal atau bekerja di dekat lokasi pusat kebugaran
+- *`Partner`* — apakah pengguna adalah karyawan perusahaan mitra (pusat kebugaran ini memiliki perusahaan mitra dan para karyawannya mendapatkan diskon; dalam hal ini, pusat kebugaran menyimpan informasi tentang perusahaan tempat kerja pelanggan mereka)
+- *`Phone`* — apakah pengguna memberikan nomor telepon mereka
+- *`Age`* — umur
+- *`Lifetime`* — waktu (dalam bulan) sejak kunjungan pertama pelanggan ke pusat kebugaran
+- *`Contract_period`* — 1 bulan, 3 bulan, 6 bulan, atau 1 tahun
+- *`Month_to_end_contract`* — sisa bulan sebelum kontrak berakhir
+- *`Group_visits`* — apakah pengguna mengambil bagian dalam sesi kelompok
+- *`Avg_class_frequency_total`* — frekuensi rata-rata kunjungan per minggu selama masa hidup pelanggan
+- *`Avg_class_frequency_current_month`* — frekuensi rata-rata kunjungan per minggu selama bulan sebelumnya
+- *`Avg_additional_charges_total`* — jumlah total uang yang dikeluarkan untuk membayar layanan lain di pusat kebugaran: kafe, barang atletik, kosmetik, pijat, dll.
+- *`Promo_friends`* — apakah pengguna awalnya melakukan pendaftaran melalui penawaran "ajak teman" (mereka menggunakan kode promo teman saat membayar keanggotaan pertama mereka)
+
+# Libraries
+
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Scipy
+- Math
+- SKLearn
+- Warnings
