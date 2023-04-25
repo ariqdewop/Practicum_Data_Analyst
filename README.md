@@ -1,14 +1,31 @@
-# Data Analyst Pilot Projects
-These are Data Analyst projects I completed when going through the Data Analyst training course in Practicum by Yandex. They involve Data Preprocessing, Analysis and Visualization, Statistical Analysis, Python (progamming languange), SQL, BI Tools: Tableau, Machine Learning and etc.
+# Deskripsi Proyek
 
-Project | Deskripsi | Libraries
-:-------- | :------------ | :-------- |
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-01" title="Analisis Preferensi Musik User di Kota Besar"> Analisis Preferensi Musik User di Kota Besar</a></p> | Membandingkan preferensi musik pengguna di kota Springfield dan Shelbyville. | *pandas*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-02" title="Analisis Resiko Peminjam Gagal Membayar"> Analisis Resiko Peminjam Gagal Membayar</a></p> | Menganalisis pengaruh status perkawinan seorang peminjam dan jumlah anak yang dimilikinya terhadap probabilitas gagal bayar dalam melunasi pinjaman. | *pandas*, *numpy*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-03" title="Analisis Faktor yang Mempengaruhi Harga Sebuah Kendaraan di Website Iklan Penjualan Kendaraan"> Analisis Faktor yang Mempengaruhi Harga Sebuah Kendaraan di Website Iklan Penjualan Kendaraan</a></p> | Mempelajari Mempelajari dan menganalisis kumpulan data iklan kendaraan di situs web Crankshaft List selama beberapa tahun terakhir dan menentukan faktor-faktor yang mempengaruhi harga sebuah kendaraan yang diiklankan. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-04" title="Analisis Perilaku Klien dan Pendapatan Untuk Paket Pra-bayar dari Operator Telekomunikasi"> Analisis Perilaku Klien dan Pendapatan Untuk Paket Pra-bayar dari Operator Telekomunikasi</a></p> | Menganalisis perilaku klien dan mencari pendapatan terbesar untuk jenis paket pra-bayar disediakan oleh operator telekomunikasi Megaline. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-05" title="Analisis Pola yang Menentukan Suatu Game Dapat Dikatakan Berhasil atau Tidak Berhasil pada Toko Daring Video Game"> Analisis Pola yang Menentukan Suatu Game Dapat Dikatakan Berhasil atau Tidak Berhasil pada Toko Daring Video Game</a></p> | Menganalisis pola suatu game yang paling berpotensial dan merencanakan kampanye game tersebut. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*, *warnings*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-06" title="Analisis Pengaruh Dampak Eksternal Terhadap Perjalanan dan Prefrensi penumpang Pada Perusahaan Taksi *Ride-Sharing*"> Analisis Pengaruh Dampak Eksternal Terhadap Perjalanan dan Prefrensi penumpang Pada Perusahaan Taksi *Ride-Sharing*</a></p> | Memahami preferensi penumpang dan dampak faktor eksternal terhadap perjalanan dari perusahaan berbagi tumpangan (Ride-Sharing) yaitu Zuber. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*, *warnings*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-07" title="Analisis Kunjungan Pengguna dan Pembelian Produk di situs Website Belanja Online"> Analisis Kunjungan Pengguna dan Pembelian Produk di situs Website Belanja Online</a></p> | Menganalisis data kunjungan pengguna dan pembelian produk di situs website Y.Afisha. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*, *warnings*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-08" title="Analisis Hipotesis dan A/B Testing di Sebuah Toko Daring"> Analisis Hipotesis dan A/B Testing di Sebuah Toko Daring</a></p> | Melakukan penyusunan dan memprioritaskan hipotesis, A/B Testing dan menganalisis hasilnya di sebuah toko daring besar. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*, *warnings*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-09" title="Analisis Pasar Jenis Usaha Tempat Makan"> Analisis Pasar Jenis Usaha Tempat Makan</a></p> | Menganalisis pasar jenis usaha tempat makan di Los Angeles, Amerika Serikat. | *pandas*, *matplotlib plot*, *seaborn*, *warnings*
+Membuat otomatisasi dashboard untuk menganalisis video yang sedang *trending* di YouTube untuk kategori, wilayah, dan tanggal trending tertentu di agensi periklanan Sterling & Draper.
+
+# Tujuan
+
+Untuk memasang iklan kepada video yang sedang *trending* di YouTube untuk kategori, wilayah, dan tanggal trending tertentu.
+
+# Hipotesis
+
+- Video apa saja yang *trending* pada waktu tertentu yang ingin di analisis
+- Bagaimana penyebarannya di setiap wilayah
+- Kategori apa saja yang paling populer di Wilayah tertentu yang ingin di analisis
+
+# Deskripsi Data
+
+Adapun file yang digunakan untuk membuat otomatisasi dashboardnya berasal dari file `trending_by_time.csv` yang memuat kolom:
+
+- *`record_id`* — Kunci primer
+- *`region`* — Negara/wilayah geografis
+- *`trending_date`* — Tanggal dan waktu
+- *`category_title`* — Kategori video
+- *`videos_count`* —  Jumlah video pada segmen trending
+
+# Tools
+
+Tools yang digunakan untuk membuat otomatisasi dashbord yaitu `Tablue`.
+
+# Dashboard
+
+- Link Dashboard : <a href="https://public.tableau.com/views/ProjectSprint11Practirum-AriqDewoPangestu/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" title="Link Menuju Dashboard"> Link Menuju Dashboard</a></p>
