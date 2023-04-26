@@ -40,3 +40,8 @@ file `product_codes_us.csv` yang memuat kolom:
 - Math
 - SKLearn
 - Warnings
+
+# Link Dashboard dan PDF
+
+- Link Dashboard : <a href="https://public.tableau.com/views/SalesOutletsPerformancePracticumProject13-AriqDewoPangestu/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" title="Link Menuju Dashboard"> Link Menuju Dashboard</a></p>
+- Link PDF : <a href="https://drive.google.com/file/d/1xFQELt_u7InI-Ogp4qB6PwmiufnKeGYi/view?usp=sharing" title="Link PDF"> Link PDF</a></p>
