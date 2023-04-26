@@ -60,4 +60,4 @@ Tabel *`reviews`* yang memuat kolom:
 # Libraries
 
 - Pandas
-- sqlalchemy
+- Sqlalchemy
