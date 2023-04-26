@@ -1,18 +1,63 @@
-# Data Analyst Pilot Projects
-These are Data Analyst projects I completed when going through the Data Analyst training course in Practicum by Yandex. They involve Data Preprocessing, Analysis and Visualization, Statistical Analysis, Python (progamming languange), SQL, BI Tools: Tableau, Machine Learning and etc.
+# Deskripsi Proyek
 
-Project | Deskripsi | Libraries
-:-------- | :------------ | :-------- |
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-01" title="Analisis Preferensi Musik User di Kota Besar"> Analisis Preferensi Musik User di Kota Besar</a></p> | Membandingkan preferensi musik pengguna di kota Springfield dan Shelbyville. | *pandas*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-02" title="Analisis Resiko Peminjam Gagal Membayar"> Analisis Resiko Peminjam Gagal Membayar</a></p> | Menganalisis pengaruh status perkawinan seorang peminjam dan jumlah anak yang dimilikinya terhadap probabilitas gagal bayar dalam melunasi pinjaman. | *pandas*, *numpy*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-03" title="Analisis Faktor yang Mempengaruhi Harga Sebuah Kendaraan di Website Iklan Penjualan Kendaraan"> Analisis Faktor yang Mempengaruhi Harga Sebuah Kendaraan di Website Iklan Penjualan Kendaraan</a></p> | Mempelajari Mempelajari dan menganalisis kumpulan data iklan kendaraan di situs web Crankshaft List selama beberapa tahun terakhir dan menentukan faktor-faktor yang mempengaruhi harga sebuah kendaraan yang diiklankan. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-04" title="Analisis Perilaku Klien dan Pendapatan Untuk Paket Pra-bayar dari Operator Telekomunikasi"> Analisis Perilaku Klien dan Pendapatan Untuk Paket Pra-bayar dari Operator Telekomunikasi</a></p> | Menganalisis perilaku klien dan mencari pendapatan terbesar untuk jenis paket pra-bayar disediakan oleh operator telekomunikasi Megaline. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-05" title="Analisis Pola yang Menentukan Suatu Game Dapat Dikatakan Berhasil atau Tidak Berhasil pada Toko Daring Video Game"> Analisis Pola yang Menentukan Suatu Game Dapat Dikatakan Berhasil atau Tidak Berhasil pada Toko Daring Video Game</a></p> | Menganalisis pola suatu game yang paling berpotensial dan merencanakan kampanye game tersebut. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*, *warnings*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-06" title="Analisis Pengaruh Dampak Eksternal Terhadap Perjalanan dan Prefrensi penumpang Pada Perusahaan Taksi *Ride-Sharing*"> Analisis Pengaruh Dampak Eksternal Terhadap Perjalanan dan Prefrensi penumpang Pada Perusahaan Taksi *Ride-Sharing*</a></p> | Memahami preferensi penumpang dan dampak faktor eksternal terhadap perjalanan dari perusahaan berbagi tumpangan (Ride-Sharing) yaitu Zuber. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*, *warnings*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-07" title="Analisis Kunjungan Pengguna dan Pembelian Produk di situs Website Belanja Online"> Analisis Kunjungan Pengguna dan Pembelian Produk di situs Website Belanja Online</a></p> | Menganalisis data kunjungan pengguna dan pembelian produk di situs website Y.Afisha. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*, *warnings*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-08" title="Analisis Hipotesis dan A/B Testing di Sebuah Toko Daring"> Analisis Hipotesis dan A/B Testing di Sebuah Toko Daring</a></p> | Melakukan penyusunan dan memprioritaskan hipotesis, A/B Testing dan menganalisis hasilnya di sebuah toko daring besar. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*, *warnings*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-09" title="Analisis Pasar Jenis Usaha Tempat Makan"> Analisis Pasar Jenis Usaha Tempat Makan</a></p> | Menganalisis pasar jenis usaha tempat makan di Los Angeles, Amerika Serikat. | *pandas*, *matplotlib plot*, *seaborn*, *warnings*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-10" title="Analisis Perilaku Pengguna Terhadap Perubahan Font Baru di Aplikasi atau Website Perusahaan Startup"> Analisis Perilaku Pengguna Terhadap Perubahan Font Baru di Aplikasi atau Website Perusahaan Startup</a></p> | Menganalisis perilaku pengguna aplikasi/website terhadap font baru di sebuah startup yang menjual produk makanan. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*, *warnings*, *math*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-11" title="Analisis Video Trending Youtube"> Analisis Video Trending Youtube</a></p> | Membuat otomatisasi dashboard untuk menganalisis video yang sedang trending di YouTube untuk kategori, wilayah, dan tanggal trending tertentu di agensi periklanan Sterling & Draper. | -
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-12" title="Analisis Profil Para Pelanggan dan Mengembangkan Strategi Retensi Pelanggan (*Customer Retention*)"> Analisis Profil Para Pelanggan dan Mengembangkan Strategi Retensi Pelanggan (*Customer Retention*)</a></p> | Menganalisis profil para pelanggan tersebut dan mengembangkan strategi retensi pelanggan (customer retention) di warabala pusat kebugaran Model Fitness. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*, *warnings*, *math*, *sklearn*
-<a href="https://github.com/ariqdewop/Practicum_Data_Analyst/tree/Project-13A" title="A/B Testing Terhadap Sistem Baru"> A/B Testing Terhadap Sistem Baru</a></p> | Melakukan eksprimen A/B Testing recommender_system_test di sebuah toko daring internasional. | *pandas*, *numpy*, *matplotlib plot*, *seaborn*, *scipy*, *warnings*, *math*
+Menganalisis buku-buku dari salah satu perusahaan dalam indsutri buku.
+
+# Tujuan
+
+Membuat penawaran harga untuk sebuah produk baru.
+
+# Hipotesis
+
+- Berapa jumlah buku yang dirilis setelah tanggal 1 Januari 2000
+- Berapa jumlah ulasan pengguna dan rating rata-rata untuk setiap buku
+- Berapa jumlah penerbit yang telah menerbitkan jumlah buku terbanyak dengan jumlah halaman lebih dari 50
+- Berapa jumlah penulis dengan rating rata-rata buku tertinggi: temukan buku dengan rating minimal 50
+- Berapa jumlah rata-rata teks ulasan di antara pengguna yang memberi rating terhadap lebih dari 50 buku
+
+# Deskripsi Data
+
+Adapun tabel-tabel yang digunakan yaitu:
+
+- *`books`*
+- *`authors`*
+- *`publishers`*
+- *`publishers`*
+- *`reviews`*
+
+Tabel *`books`* yang memuat kolom:
+
+- *`book_id`* — ID buku
+- *`author_id`* — ID penulis
+- *`title`* — Judul buku
+- *`title`* — Jumlah halaman
+- *`publication_date`* — Tanggal penerbitan
+- *`publisher_id`* — ID penerbit
+
+Tabel *`authors`* yang memuat kolom:
+
+- *`author_id`* — ID penulis
+- *`author`* — Nama penulis
+
+Tabel *`publishers`* yang memuat kolom:
+
+- *`publisher_id`* — ID penerbit
+- *`publisher`* — Nama penerbit
+
+Tabel *`ratings:`* yang memuat kolom:
+
+- *`rating_id`* — ID rating
+- *`book_id`* — ID buku
+- *`username`* — Nama pengguna yang memberi rating buku
+- *`rating`* — Rating
+
+Tabel *`reviews`* yang memuat kolom:
+
+- *`review_id`* — ID ulasan
+- *`book_id`* — ID buku
+- *`username`* — Nama pengguna yang mengulas buku
+- *`text`* — Teks ulasan
+
+# Libraries
+
+- Pandas
+- sqlalchemy
