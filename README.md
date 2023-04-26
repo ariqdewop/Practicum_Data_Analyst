@@ -1,6 +1,6 @@
 # Deskripsi Proyek
 
-Menganalisis buku-buku dari salah satu perusahaan dalam indsutri buku.
+Mengalisis Database Buku Untuk Mengembangkan Aplikasi Di Perusahaan Startup Industri Buku.
 
 # Tujuan
 
